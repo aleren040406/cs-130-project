@@ -28,6 +28,9 @@ For men, most wealth comes from building it themselves. They start companies, in
 
 For women, the pattern looks different. A larger share of female billionaires come from inherited wealth. This means many women reach billionaire status through family money or wealth passed down through generations. Self-made women do exist, but they are much fewer compared to men, making them stand out more in the data.
 
+![how people get rich](images/inheritance.png)
+ This shows a clear difference in how wealth is built and passed on. Men are more represented in creating new fortunes through business and investment, while women are more often connected to inherited wealth. This highlights not just a gap in numbers, but also in the paths people take to reach extreme wealth.
+
 ## A few countries, most of the wealth 
 The same idea of imbalance doesn’t stop at gender, it extends outward into geography, shaping where billionaire wealth actually appears on the map.
 
@@ -38,3 +41,24 @@ At the very top, the United States sits in a position that feels almost unmatche
 ![country comparison graph](images/country.png)
 
 What becomes clear is that billionaire wealth is clustered in a handful of dominant regions rather than evenly distributed across the world. Just like the gender gap shows one group consistently ahead, geography tells a similar story: a small number of countries hold a disproportionate share of global billionaire wealth, while most of the world remains far behind.
+
+## Where wealth lives
+Billionaire wealth doesn’t spread evenly, it clusters, and the difference between men and women becomes clear the moment you follow that trail.
+
+The United States stands at the center for both, but the experience diverges quickly. For men, it’s the anchor of a vast and far-reaching network that stretches across countries like China, Germany, and India. Their presence feels widespread, as if there are many doors into extreme wealth, across industries and regions.
+
+For women, the map is tighter. The same major countries appear, like the United States, Germany, and France, but the path into wealth is less varied and more concentrated.
+
+![female countries](images/female.png)
+![male countries](images/male.png)
+
+So while both men and women exist within the same global centers of wealth, they don’t move through them in the same way. One story spreads outward. The other stays confined to a smaller set of paths.
+
+## The story beneath the numbers
+Taken together, this isn’t just a story about billionaires.
+
+It’s a story about access.
+
+About who gets the chance to take risks, to build companies, to scale ideas into empires. About who is already standing close to wealth, and who has to travel much farther to reach it.
+
+It’s also a story about systems that reinforce themselves. Wealth creates opportunity, and opportunity creates more wealth, but not everyone starts from the same place within that cycle.
