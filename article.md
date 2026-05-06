@@ -62,3 +62,5 @@ It’s a story about access.
 About who gets the chance to take risks, to build companies, to scale ideas into empires. About who is already standing close to wealth, and who has to travel much farther to reach it.
 
 It’s also a story about systems that reinforce themselves. Wealth creates opportunity, and opportunity creates more wealth, but not everyone starts from the same place within that cycle.
+
+> Author : Alessandra Ren
