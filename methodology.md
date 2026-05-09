@@ -14,7 +14,7 @@
  6. Barh is an horizontal bar graph
  7. Learned that Figsize controls the size of the figures
  8. I frequently used .value_counts to quickly identify the most common industries, countries, and wealth categories in the dataset
-9. Learned about regex = False to chenage the periods in my code to underscores 
+
 
 ## Assumptions
 - Divided the people into two gender only (some people were not male or female )
